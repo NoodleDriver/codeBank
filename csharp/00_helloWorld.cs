@@ -1,5 +1,3 @@
-//Compile by mcs Hello.cs
-
 using System;
 
 class Hello{
