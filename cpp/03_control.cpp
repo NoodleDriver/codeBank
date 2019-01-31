@@ -20,15 +20,15 @@ int main(){
    switch(select){
 
        case 0:
-       std::cout << "switch. Select = 0\n";
+         std::cout << "switch. Select = 0\n";
        break;
 
        case 1:
-       std::cout << "switch. Select = 1\n";
+         std::cout << "switch. Select = 1\n";
        break;
 
        default:
-       std::cout << "switch. Select = default\n";
+         std::cout << "switch. Select = default\n";
        break;
    }
 
