@@ -1,7 +1,6 @@
 #include <iostream>
 
 int main(){
-
    int select = 0;
 
    std::cout << "Please select a number\n";
