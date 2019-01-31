@@ -8,27 +8,27 @@ int main(){
    scanf("%i", &select);
 
    if(select == 0){
-       printf("if statement. select = 0\n");
+      printf("if statement. select = 0\n");
    }
    else if(select < 2){
-       printf("else if statement. Select < 2\n");
+      printf("else if statement. Select < 2\n");
    }
    else{
-       printf("else statement.\n");
+      printf("else statement.\n");
    }
 
    switch(select){
 
        case 0:
-       printf("switch. select = 0\n");
+         printf("switch. select = 0\n");
        break;
 
        case 1:
-       printf("switch. select = 1\n");
+         printf("switch. select = 1\n");
        break;
 
        default:
-       printf("switch default\n");
+         printf("switch default\n");
        break;
    }
 
