@@ -3,7 +3,7 @@ selector = int(input("select a number"))
 print(selector)
  
 if selector == 0:
-    print("if. Selector = 0")
+   print("if. Selector = 0")
 elif selector == 1:
    print ("else if. Selector = 1")
 else:
